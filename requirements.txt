@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+tqdm
+dill==0.2.8.2
+pyyaml
